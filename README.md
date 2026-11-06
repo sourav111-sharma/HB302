@@ -1,2 +1,2 @@
 # HB302
-This is for our class.
+This is for our BSC BED class.
